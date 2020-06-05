@@ -1,4 +1,4 @@
-# AnomalyDetection
+# FraudDetection
 
 Using kaggle dataset https://www.kaggle.com/mlg-ulb/creditcardfraud
 on credit card fraud detection  to detect spurious transactions.
